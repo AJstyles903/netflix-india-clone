@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/netflix-india-clone/static/css/main.fc96bb84.css",
+    "main.js": "/netflix-india-clone/static/js/main.2ef2b297.js",
+    "static/media/NETFLIX-IN-en.jpg": "/netflix-india-clone/static/media/NETFLIX-IN-en.60cee1020d97156f813e.jpg",
+    "static/media/video-enjoy-in-tv.mp4": "/netflix-india-clone/static/media/video-enjoy-in-tv.4c1a4787988d23b1039c.mp4",
+    "static/media/kidz.png": "/netflix-india-clone/static/media/kidz.836efd88498e14ebed8e.png",
+    "static/media/device.png": "/netflix-india-clone/static/media/device.ff81d825b399d890f9b4.png",
+    "static/media/video-devices-in-tv2.mp4": "/netflix-india-clone/static/media/video-devices-in-tv2.81bb66955f7e9654e354.mp4",
+    "static/media/NetflixSans_W_Blk.woff2": "/netflix-india-clone/static/media/NetflixSans_W_Blk.29e6d806de0efce97a15.woff2",
+    "static/media/NetflixSans_W_Bd.woff2": "/netflix-india-clone/static/media/NetflixSans_W_Bd.2cd128d8209cae108cbe.woff2",
+    "static/media/NetflixSans_W_Md.woff2": "/netflix-india-clone/static/media/NetflixSans_W_Md.a7eb753e6dc0059a0b06.woff2",
+    "static/media/NetflixSans_W_Rg.woff2": "/netflix-india-clone/static/media/NetflixSans_W_Rg.0f89544675950f86a3c9.woff2",
+    "static/media/mobile.jpg": "/netflix-india-clone/static/media/mobile.063578d5b6d5ab4155ec.jpg",
+    "static/media/download-icon.gif": "/netflix-india-clone/static/media/download-icon.1ce72c891b52e6f68f2f.gif",
+    "static/media/StrangerThings.png": "/netflix-india-clone/static/media/StrangerThings.347f4ee3bafbdfe71112.png",
+    "static/media/enjoyOnTV.png": "/netflix-india-clone/static/media/enjoyOnTV.0049bc70babc1f94cf88.png",
+    "static/media/logo.svg": "/netflix-india-clone/static/media/logo.16202767228ec1a95e21aede3fd6bb1d.svg",
+    "static/media/lang.svg": "/netflix-india-clone/static/media/lang.755bee17c80ecd0bb17548ea7ae48f2e.svg",
+    "index.html": "/netflix-india-clone/index.html",
+    "static/media/DArrow.svg": "/netflix-india-clone/static/media/DArrow.834f03c63d1c13c3361783c82fd25955.svg",
+    "main.fc96bb84.css.map": "/netflix-india-clone/static/css/main.fc96bb84.css.map",
+    "main.2ef2b297.js.map": "/netflix-india-clone/static/js/main.2ef2b297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc96bb84.css",
+    "static/js/main.2ef2b297.js"
+  ]
+}
